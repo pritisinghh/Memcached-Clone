@@ -1,0 +1,2 @@
+PORT=6010
+TYPE='utf-8'
